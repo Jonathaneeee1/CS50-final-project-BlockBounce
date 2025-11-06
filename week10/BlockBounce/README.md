@@ -1,5 +1,5 @@
 # BlockBounce
-#### Video Demo: <URL HERE>
+#### Video Demo: <https://youtu.be/zJuJBcpskhM>
 #### Description:
 
 BlockBounce is a modern reimagining of the classic Pong arcade game, developed using the LÖVE2D framework and Lua programming language. This project was created as my final submission for CS50, where I aimed to combine nostalgic gameplay with modern features and a clean, intuitive interface.
@@ -85,5 +85,6 @@ While the current version of BlockBounce is complete and playable, there are sev
 ## Conclusion
 
 BlockBounce represents my effort to modernize a classic game while maintaining its core appeal. Through this project, I've gained valuable experience in game development concepts like state management, collision detection, and user interface design. The process of creating BlockBounce has deepened my understanding of both technical implementation and game design principles.
+
 
 I'm proud of the final result, which offers a polished, enjoyable gaming experience that honors the legacy of Pong while bringing it into the modern era with enhanced features and refined gameplay.
