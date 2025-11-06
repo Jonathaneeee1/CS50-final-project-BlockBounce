@@ -1,6 +1,7 @@
 # BlockBounce
 #### Video Demo: <https://youtu.be/zJuJBcpskhM>
 #### Description:
+![image alt](https://github.com/code50/230733506/blob/main/week10/BlockBounce/screenshots/ingame.png?raw=true)
 
 BlockBounce is a modern reimagining of the classic Pong arcade game, developed using the LÖVE2D framework and Lua programming language. This project was created as my final submission for CS50, where I aimed to combine nostalgic gameplay with modern features and a clean, intuitive interface.
 
@@ -53,9 +54,14 @@ I debated between implementing AI opponents with varying difficulty or simply ad
 The game now offers an AI mode where the computer can control Player 1 (left paddle). This feature allows players to practice solo or enjoy the game even without a human opponent. The AI tracks the ball with an intentional reaction delay to provide a balanced challenge without being unbeatable. This mode can be easily activated from the main menu using the "AI Player 1" button.".
 
 ### Menu System
+![image alt](https://github.com/code50/230733506/blob/main/week10/BlockBounce/screenshots/start_menu.png?raw=true)
+
 Rather than jumping straight into gameplay, I designed a comprehensive menu system that allows players to select difficulty, access options, and exit the game. This decision enhances user experience by providing clear navigation and control over game settings.
 
 ### Options Menu
+
+![image alt](https://github.com/code50/230733506/blob/main/week10/BlockBounce/screenshots/option.png?raw=true)
+
 The game includes a dedicated options menu accessible from both the main menu and the pause menu. This menu allows players to:
 - Choose from 6 different ball colors (White, Red, Green, Blue, Yellow, Purple) with a real-time preview
 - Adjust the game volume with 6 different levels
@@ -88,3 +94,4 @@ BlockBounce represents my effort to modernize a classic game while maintaining i
 
 
 I'm proud of the final result, which offers a polished, enjoyable gaming experience that honors the legacy of Pong while bringing it into the modern era with enhanced features and refined gameplay.
+
